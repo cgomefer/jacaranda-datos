@@ -9,12 +9,13 @@ descargar los datos, así que un archivo que pasa aquí se verá completo.
 """
 import json, re, sys
 
-SRC = {"bbva", "hsbc", "bancomext"}
+SRC = {"bbva", "hsbc", "bancomext", "banorte"}
 TIPO = {"Casa", "Departamento", "Terreno"}
 EDO = {"CDMX", "Edomex"}
 VENTA = {"directa", "normal", "cesion"}
 NUM = ["r", "b", "e", "m2c", "m2t", "p", "lista"]
 URL = re.compile(r"^https://(www\.)?bbvainmuebles\.mx/inmuebles/[a-z0-9-]+/?$")
+URL_BANORTE = re.compile(r"^https://www\.inmueblesbanorte\.com\.mx/Inmuebles/#/detalle/[0-9-]+$")
 
 
 def errores(d):
@@ -44,6 +45,8 @@ def errores(d):
                 err.append(f"{tag}: {k} debe ser número >= 0 o null")
         if x.get("src") == "bbva" and x.get("url") and not URL.match(x["url"]):
             err.append(f"{tag}: url de BBVA con formato inesperado")
+        if x.get("src") == "banorte" and not (x.get("url") and URL_BANORTE.match(x["url"])):
+            err.append(f"{tag}: url de Banorte con formato inesperado")
         if x.get("src") == "hsbc" and not x.get("folio"):
             err.append(f"{tag}: HSBC requiere folio")
         if x.get("p") and x.get("lista") and x["p"] > x["lista"]:
