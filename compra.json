@@ -1,5 +1,5 @@
 {
- "verificado": "2026-10-26",
+ "verificado": "2026-10-27",
  "fuentes": {
   "bbva": {
    "nombre": "BBVA Inmuebles",
@@ -45,7 +45,7 @@
    "pos": false,
    "nota": "Precio especial sujeto a revisión y autorización",
    "folio": "20257",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22367",
@@ -64,7 +64,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22367",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22382",
@@ -83,7 +83,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22382",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22457",
@@ -102,7 +102,7 @@
    "venta": "normal",
    "pos": true,
    "folio": "22457",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22535",
@@ -121,7 +121,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22535",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22551",
@@ -141,7 +141,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22551",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22607",
@@ -160,7 +160,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22607",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22617",
@@ -180,7 +180,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22617",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22693",
@@ -197,9 +197,9 @@
    "p": 4956000,
    "lista": 7080000,
    "venta": "cesion",
-   "pos": true,
+   "pos": false,
    "folio": "22693",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22736",
@@ -219,7 +219,7 @@
    "venta": "cesion",
    "pos": true,
    "folio": "22736",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22737",
@@ -239,7 +239,7 @@
    "pos": true,
    "nota": "Precio en actualización",
    "folio": "22737",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22738",
@@ -258,7 +258,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22738",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22739",
@@ -277,7 +277,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22739",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22529",
@@ -296,7 +296,7 @@
    "venta": "cesion",
    "pos": true,
    "folio": "22529",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22532",
@@ -315,7 +315,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22532",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22588",
@@ -335,7 +335,7 @@
    "pos": false,
    "nota": "Precio en actualización",
    "folio": "22588",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22723",
@@ -355,7 +355,7 @@
    "pos": false,
    "nota": "Precio en actualización",
    "folio": "22723",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-22666",
@@ -374,7 +374,7 @@
    "venta": "normal",
    "pos": true,
    "folio": "22666",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "hsbc-19280",
@@ -394,7 +394,7 @@
    "pos": false,
    "nota": "Precio especial sujeto a revisión y autorización",
    "folio": "19280",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-539605",
@@ -415,7 +415,7 @@
    "pago": "Crédito o contado",
    "folio": "539605",
    "url": "https://www.bbvainmuebles.mx/inmuebles/jorge-jimenez-cantu-ixtapaluca-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-539130",
@@ -436,7 +436,7 @@
    "pago": "Crédito o contado",
    "folio": "539130",
    "url": "https://www.bbvainmuebles.mx/inmuebles/san-martin-xico-nuevo-chalco-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-538109",
@@ -457,7 +457,7 @@
    "pago": "Crédito o contado",
    "folio": "538109",
    "url": "https://www.bbvainmuebles.mx/inmuebles/lomas-anahuac-huixquilucan-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-538650",
@@ -478,7 +478,7 @@
    "pago": "Crédito o contado",
    "folio": "538650",
    "url": "https://www.bbvainmuebles.mx/inmuebles/colinas-del-lago-cuautitlan-izcalli-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-536664",
@@ -499,7 +499,7 @@
    "pago": "Crédito o contado",
    "folio": "536664",
    "url": "https://www.bbvainmuebles.mx/inmuebles/ex-hacienda-santa-ines-nextlalpan-estado-de-mexico-3/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-540820",
@@ -520,7 +520,7 @@
    "pago": "Contado",
    "folio": "540820",
    "url": "https://www.bbvainmuebles.mx/inmuebles/san-angel-inn-alvaro-obregon-ciudad-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-537271",
@@ -541,7 +541,7 @@
    "pago": "Contado",
    "folio": "537271",
    "url": "https://www.bbvainmuebles.mx/inmuebles/ex-hacienda-santa-ines-nextlalpan-estado-de-mexico-4/",
-   "visto": "2026-10-25"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-537424",
@@ -562,7 +562,7 @@
    "pago": "Crédito o contado",
    "folio": "537424",
    "url": "https://www.bbvainmuebles.mx/inmuebles/las-americas-ecatepec-de-morelos-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-540529",
@@ -583,7 +583,7 @@
    "pago": "Crédito o contado",
    "folio": "540529",
    "url": "https://www.bbvainmuebles.mx/inmuebles/lomas-de-padierna-tlalpan-ciudad-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-539282",
@@ -604,7 +604,7 @@
    "pago": "Contado",
    "folio": "539282",
    "url": "https://www.bbvainmuebles.mx/inmuebles/colinas-del-lago-cuautitlan-izcalli-estado-de-mexico-2/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-536993",
@@ -625,7 +625,7 @@
    "pago": "Crédito o contado",
    "folio": "536993",
    "url": "https://www.bbvainmuebles.mx/inmuebles/san-lorenzo-chimalpa-chalco-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-538103",
@@ -646,7 +646,7 @@
    "pago": "Crédito o contado",
    "folio": "538103",
    "url": "https://www.bbvainmuebles.mx/inmuebles/condado-de-sayavedra-atizapan-de-zaragoza-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-539355",
@@ -667,7 +667,7 @@
    "pago": "Contado",
    "folio": "539355",
    "url": "https://www.bbvainmuebles.mx/inmuebles/san-francisco-coacalco-seccion-hacienda-coacalco-de-berriozabal-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-539310",
@@ -688,7 +688,7 @@
    "pago": "Crédito o contado",
    "folio": "539310",
    "url": "https://www.bbvainmuebles.mx/inmuebles/hacienda-del-parque-2a-seccion-cuautitlan-izcalli-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-540186",
@@ -709,7 +709,7 @@
    "pago": "Crédito o contado",
    "folio": "540186",
    "url": "https://www.bbvainmuebles.mx/inmuebles/heroes-de-padierna-tlalpan-ciudad-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-535714",
@@ -730,7 +730,7 @@
    "pago": "Crédito o contado",
    "folio": "535714",
    "url": "https://www.bbvainmuebles.mx/inmuebles/ex-hacienda-santa-ines-nextlalpan-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-538885",
@@ -751,7 +751,7 @@
    "pago": "Crédito o contado",
    "folio": "538885",
    "url": "https://www.bbvainmuebles.mx/inmuebles/ciudad-cuauhtemoc-seccion-chiconautla-3000-ecatepec-de-morelos-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-540947",
@@ -772,7 +772,7 @@
    "pago": "Contado",
    "folio": "540947",
    "url": "https://www.bbvainmuebles.mx/inmuebles/vasco-de-quiroga-gustavo-a-madero-ciudad-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-537745",
@@ -793,7 +793,7 @@
    "pago": "Crédito o contado",
    "folio": "537745",
    "url": "https://www.bbvainmuebles.mx/inmuebles/lomas-de-san-angel-inn-alvaro-obregon-ciudad-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-540833",
@@ -814,7 +814,7 @@
    "pago": "Contado",
    "folio": "540833",
    "url": "https://www.bbvainmuebles.mx/inmuebles/san-francisco-coacalco-seccion-heroes-coacalco-de-berriozabal-estado-de-mexico-2/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-539624",
@@ -835,7 +835,7 @@
    "pago": "Contado",
    "folio": "539624",
    "url": "https://www.bbvainmuebles.mx/inmuebles/tlalnepantla-de-baz-tlalnepantla-de-baz-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-540594",
@@ -856,7 +856,7 @@
    "pago": "Contado",
    "folio": "540594",
    "url": "https://www.bbvainmuebles.mx/inmuebles/conjunto-urbano-residencial-iztac-chalco-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-535166",
@@ -877,7 +877,7 @@
    "pago": "Crédito o contado",
    "folio": "535166",
    "url": "https://www.bbvainmuebles.mx/inmuebles/lomas-de-puerta-grande-alvaro-obregon-ciudad-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-538046",
@@ -898,7 +898,7 @@
    "pago": "Crédito o contado",
    "folio": "538046",
    "url": "https://www.bbvainmuebles.mx/inmuebles/lomas-de-la-herradura-huixquilucan-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-538898",
@@ -919,7 +919,7 @@
    "pago": "Crédito o contado",
    "folio": "538898",
    "url": "https://www.bbvainmuebles.mx/inmuebles/paseos-del-valle-nextlalpan-estado-de-mexico/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-539984",
@@ -940,7 +940,7 @@
    "pago": "Crédito o contado",
    "folio": "539984",
    "url": "https://www.bbvainmuebles.mx/inmuebles/san-francisco-coacalco-seccion-hacienda-coacalco-de-berriozabal-estado-de-mexico-2/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-536643",
@@ -961,7 +961,7 @@
    "pago": "Crédito o contado",
    "folio": "536643",
    "url": "https://www.bbvainmuebles.mx/inmuebles/ex-hacienda-santa-ines-nextlalpan-estado-de-mexico-2/",
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "bbva-538091",
@@ -983,7 +983,7 @@
    "folio": "538091",
    "url": "https://www.bbvainmuebles.mx/inmuebles/colinas-de-san-jose-tlalnepantla-de-baz-estado-de-mexico/",
    "nota": null,
-   "visto": "2026-10-26"
+   "visto": "2026-10-27"
   },
   {
    "id": "banorte-1-030-68170",
