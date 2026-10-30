@@ -1,5 +1,5 @@
 {
- "verificado": "2026-10-29",
+ "verificado": "2026-10-30",
  "fuentes": {
   "bbva": {
    "nombre": "BBVA Inmuebles",
@@ -45,7 +45,7 @@
    "pos": false,
    "nota": "Precio especial sujeto a revisión y autorización",
    "folio": "20257",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22367",
@@ -64,7 +64,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22367",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22382",
@@ -83,7 +83,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22382",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22457",
@@ -102,7 +102,7 @@
    "venta": "normal",
    "pos": true,
    "folio": "22457",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22535",
@@ -121,7 +121,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22535",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22551",
@@ -141,7 +141,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22551",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22607",
@@ -160,7 +160,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22607",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22617",
@@ -180,7 +180,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22617",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22693",
@@ -199,7 +199,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22693",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22736",
@@ -219,7 +219,7 @@
    "venta": "cesion",
    "pos": true,
    "folio": "22736",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22737",
@@ -239,7 +239,7 @@
    "pos": true,
    "nota": "Precio en actualización",
    "folio": "22737",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22738",
@@ -258,7 +258,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22738",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22739",
@@ -277,7 +277,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22739",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22529",
@@ -296,7 +296,7 @@
    "venta": "cesion",
    "pos": true,
    "folio": "22529",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22532",
@@ -315,7 +315,7 @@
    "venta": "cesion",
    "pos": false,
    "folio": "22532",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22588",
@@ -335,7 +335,7 @@
    "pos": false,
    "nota": "Precio en actualización",
    "folio": "22588",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22723",
@@ -355,7 +355,7 @@
    "pos": false,
    "nota": "Precio en actualización",
    "folio": "22723",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-22666",
@@ -374,7 +374,7 @@
    "venta": "normal",
    "pos": true,
    "folio": "22666",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "hsbc-19280",
@@ -394,7 +394,7 @@
    "pos": false,
    "nota": "Precio especial sujeto a revisión y autorización",
    "folio": "19280",
-   "visto": "2026-10-29"
+   "visto": "2026-10-30"
   },
   {
    "id": "bbva-539605",
